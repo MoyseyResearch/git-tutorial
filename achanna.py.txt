@@ -1,0 +1,4 @@
+def example_fn(stuff):
+  return 'hello'
+
+print example_fn(0)
